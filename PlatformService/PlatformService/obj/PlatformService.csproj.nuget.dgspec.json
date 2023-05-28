@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\demo\\PlatformService\\PlatformService\\PlatformService.csproj": {}
+    "C:\\demo\\microservices\\PlatformService\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\demo\\PlatformService\\PlatformService\\PlatformService.csproj": {
+    "C:\\demo\\microservices\\PlatformService\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\demo\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\demo\\microservices\\PlatformService\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\demo\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\demo\\microservices\\PlatformService\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\melo.guan\\.nuget\\packages\\",
-        "outputPath": "C:\\demo\\PlatformService\\PlatformService\\obj\\",
+        "outputPath": "C:\\demo\\microservices\\PlatformService\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
