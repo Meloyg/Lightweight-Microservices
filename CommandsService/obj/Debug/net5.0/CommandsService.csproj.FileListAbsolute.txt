@@ -45,3 +45,6 @@ C:\demo\microservices\CommandsService\obj\Debug\net5.0\refint\CommandsService.dl
 C:\demo\microservices\CommandsService\obj\Debug\net5.0\CommandsService.pdb
 C:\demo\microservices\CommandsService\obj\Debug\net5.0\CommandsService.genruntimeconfig.cache
 C:\demo\microservices\CommandsService\obj\Debug\net5.0\ref\CommandsService.dll
+C:\demo\microservices\CommandsService\bin\Debug\net5.0\appsettings.Production.json
+C:\demo\microservices\CommandsService\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\demo\microservices\CommandsService\bin\Debug\net5.0\System.Threading.Channels.dll
